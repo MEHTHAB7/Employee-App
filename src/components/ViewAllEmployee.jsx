@@ -23,6 +23,7 @@ const ViewAllEmployee = () => {
     return (
         <div>
             <EmployeeNavbar />
+            <h2 align="center">VIEW ALL EMPLOYEE</h2>
 
             <div className="container">
                 <div className="row">
